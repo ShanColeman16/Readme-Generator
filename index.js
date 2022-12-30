@@ -14,6 +14,11 @@ const questions = [
         name: "github",
         message: "what is your github username?"
     },
+    {
+        type: "input",
+        name: "email",
+        message: "what is your email address?"
+    },
 ];
 
 // TODO: Create a function to write README file
