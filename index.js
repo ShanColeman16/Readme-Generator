@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 
-const inquirer = require("inquirer");
+const inquirer = require('inquirer');
+const prompt = inquier.createPromptModule();
 
 // TODO: Create an array of questions for user input
 const questions = [
