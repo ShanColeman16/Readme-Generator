@@ -19,6 +19,30 @@ this is a short description
 
 *[Questions](#questions)
 
-##Installation
+##  Installation
 
 To install necessary dependencies, run the following command:
+
+##  Usage
+
+nothing
+
+##  License
+
+This project is licensed under the APACHE 2.0 license.
+
+##  Contributing
+
+nothing
+
+##  Tests
+
+To run tests, run the following command:
+
+```
+npm test
+```
+
+##  Questions
+
+If you have any questions about the repo, open an issue or contact me directly @ fun@guy.com You can find more of my work at [funguy] (https://github.com/funguy/).
