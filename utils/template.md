@@ -45,4 +45,4 @@ npm test
 
 ##  Questions
 
-If you have any questions about the repo, open an issue or contact me directly @ fun@guy.com You can find more of my work at [funguy] (https://github.com/funguy/).
+If you have any questions about the repo, open an issue or contact me directly @ coolbreeze.com You can find more of my work at [ShanColeman16] (https://github.com/ShanColeman16/).
