@@ -38,6 +38,11 @@ ${data.description}
 
 To install necessary dependencies, run the following command:
 
+\`\`\`
+${data.install}
+
+\`\`\`
+
 ##  Usage
 
 nothing
@@ -48,7 +53,10 @@ This project is licensed under the APACHE 2.0 license.
 
 ##  Contributing
 
-nothing
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ##  Tests
 
@@ -57,7 +65,7 @@ To run tests, run the following command:
 
 ##  Questions
 
-If you have any questions about the repo, open an issue or contact me directly @ fun@guy.com You can find more of my work at [funguy] (https://github.com/funguy/).
+If you have any questions about the repo, open an issue or contact me directly @coolbreeze.com You can find more of my work at [ShanColeman16] (https://github.com/ShanColeman16).
 
 
 `;
