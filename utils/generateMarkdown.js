@@ -54,9 +54,6 @@ nothing
 
 To run tests, run the following command:
 
-```
-
-```
 
 ##  Questions
 
