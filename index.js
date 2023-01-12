@@ -33,8 +33,23 @@ const questions = [
   {
     type: 'input',
     name: 'contributing',
-    message: 'Provide usage instructions.'
+    message: 'Please contribute any additional details if needed.'
   },
+  {
+    type: 'input',
+    name: 'test',
+    message: 'Provide test instructions.'
+  },
+  {
+    type: 'rawlist',
+    name: 'license',
+    message: 'Please select a license.',
+    choices: [
+      GNU,
+      BSD,
+      MLP,
+    ]
+  }
 ];
 
 // TODO: Create a function to write README file
