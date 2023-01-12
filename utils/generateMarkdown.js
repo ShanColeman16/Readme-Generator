@@ -18,7 +18,7 @@ function generateMarkdown(data) {
 
 ## Description
 
-this is a short description
+${data.description}
 
 ## Table of Contents
 
