@@ -35,16 +35,16 @@ const questions = [
   //   name: 'test',
   //   message: 'Provide test instructions.'
   // },
-  // {
-  //   type: 'rawlist',
-  //   name: 'license',
-  //   message: 'Please select a license.',
-  //   choices: [
-  //     'GNU',
-  //     'BSD',
-  //     'MLP',
-  //   ]
-  // },
+  {
+    type: 'rawlist',
+    name: 'license',
+    message: 'Please select a license.',
+    choices: [
+      'GNU',
+      'BSD',
+      'MLP',
+    ]
+  },
   // {
   //   type: 'input',
   //   name: 'gitHub',

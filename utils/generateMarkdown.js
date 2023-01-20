@@ -77,7 +77,7 @@ ${data.test}
 
 ##  Questions
 
-If you have any questions about the repo, open an issue or contact me directly @coolbreeze.com You can find more of my work at [ShanColeman16] (https://github.com/ShanColeman16).
+If you have any questions about the repo, open an issue or contact me directly at ${data.email}'You can find more of my work at [data.gitHub] (https://github.com/${data.gitHub}).
 
 
 `;
