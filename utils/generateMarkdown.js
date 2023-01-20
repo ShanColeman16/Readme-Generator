@@ -22,7 +22,7 @@ function generateMarkdown(data) {
 
   # ${data.project}
 
-  ${renderLicenseSection()}
+  ${renderLicenseSection(data.license)}
 
 ## Description
 
@@ -48,7 +48,6 @@ To install necessary dependencies, run the following command:
 
 \`\`\`
 ${data.install}
-
 \`\`\`
 
 ##  Usage
@@ -57,7 +56,7 @@ ${data.usage}
 
 ##  License
 
-This project is licensed under the ${data.license} license.
+This project is licensed under the ${renderLicenseLink (data.license)} license.
 
 ##  Contributing
 
@@ -71,6 +70,7 @@ ${data.contributing}
 To run tests, run the following command:
 
 \`\`\`
+
 ${data.test}
 
 \`\`\`

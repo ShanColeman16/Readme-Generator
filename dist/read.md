@@ -1,14 +1,14 @@
 
 
 
-  # Readme Generator
+  # sxas
 
   [![GitHub license](https://img.shields.io/badge/license-$-{license}-green)](https://opensource.org/licenses/
   undefined)
 
 ## Description
 
-Write a professional readme.
+dasda
 
 ## Table of Contents
 
@@ -29,13 +29,13 @@ Write a professional readme.
 To install necessary dependencies, run the following command:
 
 ```
-nmp install
+dsad
 
 ```
 
 ##  Usage
 
-node index.js 
+dsada 
 
 ##  License
 
@@ -46,14 +46,15 @@ This project is licensed under the GNU license.
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-n/a
+dsadas
 
 ##  Tests
 
 To run tests, run the following command:
 
 ```
-npm run test
+
+dsada
 
 ```
 
